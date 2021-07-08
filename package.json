@@ -1,0 +1,15 @@
+{
+  "name": "gatsby-file-route-api-bug",
+  "private": true,
+  "version": "0.0.0",
+  "main": "src/pages/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "^3.9.0",
+    "react": "^17",
+    "react-dom": "^17"
+  }
+}
