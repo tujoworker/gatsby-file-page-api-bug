@@ -8,7 +8,7 @@
     "start": "gatsby develop"
   },
   "dependencies": {
-    "gatsby": "^3.9.0",
+    "gatsby": "^4.2.0",
     "react": "^17",
     "react-dom": "^17"
   }
