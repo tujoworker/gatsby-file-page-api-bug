@@ -7,3 +7,5 @@ public
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+.history/
+node_modules/
